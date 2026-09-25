@@ -1,0 +1,13 @@
+# NinjaTrader / C# / VS — ne jamais commiter le compilé ni les doublons
+bin/
+obj/
+*.dll
+*.pdb
+*.user
+*.suo
+.vs/
+*.bak-doublon
+*.bak
+*~
+# Exports / logs locaux NT8
+*.log
